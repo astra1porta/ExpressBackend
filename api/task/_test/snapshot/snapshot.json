@@ -1,0 +1,9 @@
+{
+  "entry": "./main.db",
+  "schemas": [
+    {
+      "path": "./dbo.db",
+      "name": "dbo"
+    }
+  ]
+}

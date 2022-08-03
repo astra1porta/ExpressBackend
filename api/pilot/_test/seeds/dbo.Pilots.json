@@ -1,0 +1,21 @@
+[
+ {
+   "crewId": 1,
+   "airline": "AA",
+   "firstName": "John",
+   "lastName": "Smith",
+   "fleet": "737",
+   "seat": "CPT",
+   "domicile": "GEG",
+   "trainingFacility": "Riviera State 32/106",
+   "company": "American Airlines",
+   "address1": "795 Folsom Ave",
+   "address2": "Suite 600",
+   "city": "San Francisco",
+   "state": "CA",
+   "postalCode": "94107",
+   "areaCode": "123",
+   "prefix": "456",
+   "suffix": "7890"
+ }
+]
