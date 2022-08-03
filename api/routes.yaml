@@ -1,0 +1,4 @@
+routes:
+  - name: "Pilots"
+    prefix: "pilot"
+    path: "./pilot"
